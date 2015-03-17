@@ -1,6 +1,5 @@
 # existential-default
 
-[![Coverage Status](http://img.shields.io/coveralls/Kikobeats/existential-default/master.svg?style=flat)](https://coveralls.io/r/Kikobeats/existential-default?branch=master)
 [![Dependency status](http://img.shields.io/david/Kikobeats/existential-default.svg?style=flat)](https://david-dm.org/Kikobeats/existential-default)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/existential-default.svg?style=flat)](https://david-dm.org/Kikobeats/existential-default#info=devDependencies)
 [![NPM Status](http://img.shields.io/npm/dm/existential-default.svg?style=flat)](https://www.npmjs.org/package/existential-default)
