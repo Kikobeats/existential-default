@@ -1,7 +1,7 @@
 {
   "name": "existential-default",
   "description": "Check for the existential value of a variable. Assign value by default.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": {
     "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
@@ -31,7 +31,13 @@
     "npm": ">= 1.4.0"
   },
   "homepage": "https://github.com/Kikobeats/existential-default",
-  "keywords": ["existential", "operator", "existence", "exists", "default"],
+  "keywords": [
+    "existential",
+    "operator",
+    "existence",
+    "exists",
+    "default"
+  ],
   "license": "MIT",
   "main": "./index.js",
   "repository": "Kikobeats/existential-default",
