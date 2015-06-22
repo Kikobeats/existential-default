@@ -10,7 +10,9 @@
   "bugs": {
     "url": "https://github.com/Kikobeats/existential-default/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "existential": "^1.0.0"
+  },
   "devDependencies": {
     "browserify": "*",
     "coffee-script": "*",
