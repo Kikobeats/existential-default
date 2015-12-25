@@ -1,7 +1,7 @@
 {
   "name": "existential-default",
   "description": "Check for the existential value of a variable. Assign value by default.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "author": {
     "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
