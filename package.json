@@ -11,7 +11,8 @@
     "url": "https://github.com/Kikobeats/existential-default/issues"
   },
   "dependencies": {
-    "existential": "^1.0.0"
+    "deepmerge": "~0.2.10",
+    "existential": "~1.0.3"
   },
   "devDependencies": {
     "browserify": "*",

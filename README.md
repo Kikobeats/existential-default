@@ -1,11 +1,15 @@
 # existential-default
 
-[![Dependency status](http://img.shields.io/david/Kikobeats/existential-default.svg?style=flat)](https://david-dm.org/Kikobeats/existential-default)
-[![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/existential-default.svg?style=flat)](https://david-dm.org/Kikobeats/existential-default#info=devDependencies)
-[![NPM Status](http://img.shields.io/npm/dm/existential-default.svg?style=flat)](https://www.npmjs.org/package/existential-default)
-[![Gittip](http://img.shields.io/gittip/Kikobeats.svg?style=flat)](https://www.gittip.com/Kikobeats/)
+![Last version](https://img.shields.io/github/tag/Kikobeats/existential-default.svg?style=flat-square)
+[![Build Status](http://img.shields.io/travis/Kikobeats/existential-default/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/existential-default)
+[![Dependency status](http://img.shields.io/david/Kikobeats/existential-default.svg?style=flat-square)](https://david-dm.org/Kikobeats/existential-default)
+[![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/existential-default.svg?style=flat-square)](https://david-dm.org/Kikobeats/existential-default#info=devDependencies)
+[![NPM Status](http://img.shields.io/npm/dm/existential-default.svg?style=flat-square)](https://www.npmjs.org/package/existential-default)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
 > Check for the existential value of a variable. Assign value by default.
+
+This module have the same behavior than [existential-assign](https://github.com/Kikobeats/existential-assign) where the unique change is the order of the parameters to be more natural and not align with [Object.assign](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) interface.
 
 ## Install
 
