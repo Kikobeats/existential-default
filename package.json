@@ -11,8 +11,9 @@
     "url": "https://github.com/Kikobeats/existential-default/issues"
   },
   "dependencies": {
-    "deepmerge": "~0.2.10",
-    "existential": "~1.0.3"
+    "existential": "~1.0.3",
+    "lodash.clonedeep": "~4.0.3",
+    "lodash.merge": "~4.0.3"
   },
   "devDependencies": {
     "browserify": "*",
