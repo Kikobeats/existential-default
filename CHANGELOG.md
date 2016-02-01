@@ -1,8 +1,18 @@
+<a name="1.1.1"></a>
+## 1.1.1 (2016-02-01)
+
+
+* Fix bug related with undefined values ([7ceb78a](https://github.com/kikobeats/existential-default/commit/7ceb78a))
+* update bumped settings ([40cb117](https://github.com/kikobeats/existential-default/commit/40cb117))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2015-12-25)
 
 
 * Refactor ([1f9de02](https://github.com/kikobeats/existential-default/commit/1f9de02))
+* Release 1.1.0 ([39f508b](https://github.com/kikobeats/existential-default/commit/39f508b))
 
 
 

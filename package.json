@@ -1,15 +1,28 @@
 {
   "name": "existential-default",
   "description": "Check for the existential value of a variable. Assign value by default.",
-  "version": "1.1.0",
+  "homepage": "https://github.com/Kikobeats/existential-default",
+  "version": "1.1.1",
+  "main": "./index.js",
   "author": {
     "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikobeats/existential-default.git"
+  },
   "bugs": {
     "url": "https://github.com/Kikobeats/existential-default/issues"
   },
+  "keywords": [
+    "default",
+    "existence",
+    "existential",
+    "exists",
+    "operator"
+  ],
   "dependencies": {
     "existential": "~1.0.3",
     "lodash.clonedeep": "~4.0.3",
@@ -32,18 +45,8 @@
     "node": ">= 0.10.0",
     "npm": ">= 1.4.0"
   },
-  "homepage": "https://github.com/Kikobeats/existential-default",
-  "keywords": [
-    "existential",
-    "operator",
-    "existence",
-    "exists",
-    "default"
-  ],
-  "license": "MIT",
-  "main": "./index.js",
-  "repository": "Kikobeats/existential-default",
   "scripts": {
     "test": "sh test/test.sh"
-  }
+  },
+  "license": "MIT"
 }
