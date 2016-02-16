@@ -1,8 +1,24 @@
+<a name="1.1.2"></a>
+## 1.1.2 (2016-02-16)
+
+
+### chore
+
+* chore(package): update lodash.clonedeep to version 4.1.0 ([998a35f](https://github.com/kikobeats/existential-default/commit/998a35f))
+* chore(package): update lodash.clonedeep to version 4.2.0 ([ccf9f0b](https://github.com/kikobeats/existential-default/commit/ccf9f0b))
+
+* Merge pull request #2 from Kikobeats/greenkeeper-lodash.clonedeep-4.1.0 ([517a161](https://github.com/kikobeats/existential-default/commit/517a161))
+* Merge pull request #4 from Kikobeats/greenkeeper-lodash.clonedeep-4.2.0 ([0f9d724](https://github.com/kikobeats/existential-default/commit/0f9d724))
+* update lodash.merge dependency ([f7d6e16](https://github.com/kikobeats/existential-default/commit/f7d6e16))
+
+
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2016-02-01)
 
 
 * Fix bug related with undefined values ([7ceb78a](https://github.com/kikobeats/existential-default/commit/7ceb78a))
+* Release 1.1.1 ([b3a9330](https://github.com/kikobeats/existential-default/commit/b3a9330))
 * update bumped settings ([40cb117](https://github.com/kikobeats/existential-default/commit/40cb117))
 
 
