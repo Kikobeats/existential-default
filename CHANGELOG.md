@@ -1,3 +1,18 @@
+<a name="1.1.3"></a>
+## 1.1.3 (2016-03-06)
+
+
+### chore
+
+* chore(package): update lodash.clonedeep to version 4.3.1 ([cbd8df6](https://github.com/kikobeats/existential-default/commit/cbd8df6))
+* chore(package): update lodash.merge to version 4.3.0 ([cda4e1e](https://github.com/kikobeats/existential-default/commit/cda4e1e))
+
+* Change lodash.merge → lodash.defaultsDeep ([ff20334](https://github.com/kikobeats/existential-default/commit/ff20334))
+* Merge pull request #5 from Kikobeats/greenkeeper-lodash.merge-4.3.0 ([b38c757](https://github.com/kikobeats/existential-default/commit/b38c757))
+* Merge pull request #7 from Kikobeats/greenkeeper-lodash.clonedeep-4.3.1 ([a8885d9](https://github.com/kikobeats/existential-default/commit/a8885d9))
+
+
+
 <a name="1.1.2"></a>
 ## 1.1.2 (2016-02-16)
 
@@ -9,6 +24,7 @@
 
 * Merge pull request #2 from Kikobeats/greenkeeper-lodash.clonedeep-4.1.0 ([517a161](https://github.com/kikobeats/existential-default/commit/517a161))
 * Merge pull request #4 from Kikobeats/greenkeeper-lodash.clonedeep-4.2.0 ([0f9d724](https://github.com/kikobeats/existential-default/commit/0f9d724))
+* Release 1.1.2 ([5dcbbd8](https://github.com/kikobeats/existential-default/commit/5dcbbd8))
 * update lodash.merge dependency ([f7d6e16](https://github.com/kikobeats/existential-default/commit/f7d6e16))
 
 
