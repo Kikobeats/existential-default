@@ -1,11 +1,10 @@
 'use strict'
 
 var exists = require('existential')
-var _clone = require('lodash.clonedeep')
 var _defaultsDeep = require('lodash.defaultsdeep')
 
 function merge (x, y) {
-  return _defaultsDeep(_clone(x), y)
+  return _defaultsDeep({}, x, y)
 }
 
 function isObject (arg) {

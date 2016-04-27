@@ -25,7 +25,6 @@
   ],
   "dependencies": {
     "existential": "~1.0.3",
-    "lodash.clonedeep": "~4.3.2",
     "lodash.defaultsdeep": "~4.3.2"
   },
   "devDependencies": {
@@ -42,8 +41,7 @@
     "vinyl-source-stream": "*"
   },
   "engines": {
-    "node": ">= 0.10.0",
-    "npm": ">= 1.4.0"
+    "node": ">= 0.10"
   },
   "scripts": {
     "test": "sh test/test.sh"
