@@ -25,7 +25,8 @@
   ],
   "dependencies": {
     "existential": "~1.0.3",
-    "lodash.defaultsdeep": "~4.3.2"
+    "lodash.defaultsdeep": "~4.3.2",
+    "sliced": "~1.0.1"
   },
   "devDependencies": {
     "browserify": "latest",
