@@ -28,22 +28,24 @@
     "lodash.defaultsdeep": "~4.3.2"
   },
   "devDependencies": {
-    "browserify": "*",
-    "coffee-script": "*",
-    "coffeeify": "*",
-    "gulp": "*",
-    "gulp-header": "*",
-    "gulp-uglify": "*",
-    "gulp-util": "*",
-    "mocha": "*",
-    "should": "*",
-    "vinyl-buffer": "*",
-    "vinyl-source-stream": "*"
+    "browserify": "latest",
+    "coffee-script": "latest",
+    "coffeeify": "latest",
+    "gulp": "latest",
+    "gulp-header": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "mocha": "latest",
+    "should": "latest",
+    "standard": "latest",
+    "vinyl-buffer": "latest",
+    "vinyl-source-stream": "latest"
   },
   "engines": {
     "node": ">= 0.10"
   },
   "scripts": {
+    "pretest": "standard index.js",
     "test": "sh test/test.sh"
   },
   "license": "MIT"
