@@ -1,3 +1,14 @@
+<a name="1.2.0"></a>
+# 1.2.0 (2016-04-27)
+
+* Add standard and block devDependencies version ([940f6fe](https://github.com/kikobeats/existential-default/commit/940f6fe))
+* Extend testing build ([002bd29](https://github.com/kikobeats/existential-default/commit/002bd29))
+* Remove unnecessary dep ([1559f6c](https://github.com/kikobeats/existential-default/commit/1559f6c))
+* Update test command ([ba94be6](https://github.com/kikobeats/existential-default/commit/ba94be6))
+* chore(package): update lodash.clonedeep to version 4.3.2 ([7d5b45f](https://github.com/kikobeats/existential-default/commit/7d5b45f))
+
+
+
 <a name="1.1.3"></a>
 ## 1.1.3 (2016-03-06)
 
