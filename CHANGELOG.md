@@ -1,3 +1,11 @@
+<a name="1.2.1"></a>
+## 1.2.1 (2016-04-27)
+
+* Perf improvement ([01330eb](https://github.com/kikobeats/existential-default/commit/01330eb))
+* Removed unnecessary files ([6c2ba81](https://github.com/kikobeats/existential-default/commit/6c2ba81))
+
+
+
 <a name="1.2.0"></a>
 # 1.2.0 (2016-04-27)
 
