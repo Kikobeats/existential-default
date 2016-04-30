@@ -67,9 +67,7 @@ describe 'existential default ::', ->
       expected =
         one: 'one'
         two:
-          three: 'three'
           four: 'four'
-          five: 'five'
 
       existsDefault(objt, defaults).should.be.eql expected
 
