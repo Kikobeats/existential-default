@@ -1,3 +1,10 @@
+<a name="1.3.0"></a>
+# 1.3.0 (2016-04-30)
+
+* move defaultsDeep into a separate namespace ([387e522](https://github.com/kikobeats/existential-default/commit/387e522))
+
+
+
 <a name="1.2.1"></a>
 ## 1.2.1 (2016-04-27)
 
