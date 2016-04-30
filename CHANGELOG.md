@@ -1,3 +1,10 @@
+<a name="1.3.1"></a>
+## 1.3.1 (2016-04-30)
+
+* Move deep in separate project ([faf254a](https://github.com/kikobeats/existential-default/commit/faf254a))
+
+
+
 <a name="1.3.0"></a>
 # 1.3.0 (2016-04-30)
 
