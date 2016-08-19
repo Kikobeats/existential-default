@@ -39,6 +39,12 @@ console.log(hello);
 // => 'world'
 ```
 
+## Related
+
+* [existential](https://github.com/Kikobeats/existential) – The missing existential operator for JavaScript.
+* [existential-assign](existential-assign) – Check for the existential value of a variable/object. Assign one if the value doesn't exist.
+* [existential-default-deep](https://github.com/Kikobeats/existential-default-deep) – Deep version of [existential-default](https://github.com/Kikobeats/existential-default).
+
 ## License
 
 MIT © [Kiko Beats](http://www.kikobeats.com)
